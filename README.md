@@ -3,7 +3,7 @@ Automating TradeRev's Job Portal as a part of coding challenge
 ---------------------------------------------------------------------------------------------------------------------
 To clone and execute the tests in this project, please follow below commands. Also make sure the system has maven installed to run these tests.
 
-git clone ProjectURL
+git clone https://github.com/AnirudhPrayaga/TRProject.git
 cd PageObjectModel
 mvn clean test
 
